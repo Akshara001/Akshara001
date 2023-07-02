@@ -1,4 +1,3 @@
-<img align="center" ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Akshara Thrivi C</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif"
