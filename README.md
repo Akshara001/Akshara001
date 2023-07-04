@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA for placements**
 
-- 💬 Ask me about **C, PYTHON,JAVA**
+- 💬 Ask me about **C, PYTHON,JAVA,MATLAB**
 
 - 📫 How to reach me **aksharathrivi@gmail.com**
 
